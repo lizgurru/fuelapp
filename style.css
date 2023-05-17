@@ -1,0 +1,84 @@
+/* CSS Style Page for 'login.html' */
+
+body
+{
+	
+	background-color: #0093E9;
+	background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+
+}
+
+.login-page
+{
+	
+	margin: auto;
+	width: 350px;
+	padding: 10%;
+
+}
+
+.login
+{
+	
+	margin: -25px auto 25px auto;
+
+}
+
+.form
+{
+	
+	margin: 0 auto 100px;
+	width: 320px;
+	padding: 50px;
+	text-align: center;
+	background: #FFFFFF;
+	position: relative;
+
+}
+
+.form button
+{
+	
+	width: 100%;
+	padding: 15px;
+	background-color: #0093E9;
+	background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+	color: #FFFFFF;
+	border: 0;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	cursor: pointer;
+
+}
+
+.form input
+{
+	
+	margin: 0 0 15px;
+	width: 100%;
+	padding: 15px;
+	background: #e8e6e6;
+	border: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+	font-size: 12px;
+
+}
+
+.form .message
+{
+	
+	width: 100%;
+	margin: 15px 0 0;
+	font-size: 12px;
+
+}
+
+.form .message a
+{
+	
+	color: #0093E9;
+	
+}

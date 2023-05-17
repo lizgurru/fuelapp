@@ -1,0 +1,55 @@
+body
+{
+	
+	background-color: #0093E9;
+	background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+
+}
+.fuel-quote-page
+{
+	width: 350px;
+	height: 400px;
+	padding: 10%;
+
+}
+.table-background
+{
+	margin: auto ;
+	width: 1000px;
+	padding: 50px;
+	text-align: center;
+	background: #FFFFFF;
+	position: relative;
+
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even) {
+background-color: #dddddd;
+}
+
+button{
+    width: 50%;
+	padding: 15px;
+	background-color: #0093E9;
+	background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+	color: #FFFFFF;
+	border: 0;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	cursor: pointer;
+	margin-top: 15px;
+}
+
+.table{
+    padding: 8px;
+}
